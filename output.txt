@@ -1,0 +1,6 @@
+anik = 5.80
+emon = 5.70
+antu = 5.90
+anik = 5.80
+emon = 5.70
+antu = 5.90
